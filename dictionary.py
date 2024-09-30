@@ -1,0 +1,1 @@
+students = { 'name': 'aminah', 'age': '12', 'course': 'nursing'}
